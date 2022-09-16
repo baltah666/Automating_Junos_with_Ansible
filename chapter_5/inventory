@@ -1,5 +1,8 @@
 spine1    ansible_host=192.168.174.251
-spine2    ansible_host=192.168.174.250
+spine2    ansible_host=192.168.174.168
+leaf1    ansible_host=192.168.174.166
+leaf2    ansible_host=192.168.174.167
+
 
 
 [all:vars]

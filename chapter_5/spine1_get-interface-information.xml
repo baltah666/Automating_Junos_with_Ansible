@@ -202,9 +202,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:03</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:03</hardware-physical-address>
-    <interface-flapped seconds="76687">2022-09-13 13:50:47 CEST (21:18:07 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:03</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:03</hardware-physical-address>
+    <interface-flapped seconds="1109">2022-09-16 06:54:25 CEST (00:18:29 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -248,7 +248,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>2756</output-packets>
+        <output-packets>41</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -300,9 +300,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:07</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:07</hardware-physical-address>
-    <interface-flapped seconds="76687">2022-09-13 13:50:47 CEST (21:18:07 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:07</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:07</hardware-physical-address>
+    <interface-flapped seconds="1109">2022-09-16 06:54:25 CEST (00:18:29 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -346,7 +346,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>7622</output-packets>
+        <output-packets>117</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -406,9 +406,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:0b</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:0b</hardware-physical-address>
-    <interface-flapped seconds="76687">2022-09-13 13:50:47 CEST (21:18:07 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:0b</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:0b</hardware-physical-address>
+    <interface-flapped seconds="1109">2022-09-16 06:54:25 CEST (00:18:29 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -441,7 +441,7 @@
     <interface-transmit-statistics>Disabled</interface-transmit-statistics>
     <logical-interface>
       <name>xe-0/0/2.0</name>
-      <local-index>559</local-index>
+      <local-index>557</local-index>
       <snmp-index>540</snmp-index>
       <if-config-flags>
         <iff-up/>
@@ -452,7 +452,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>7627</output-packets>
+        <output-packets>118</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -512,9 +512,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:0f</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:0f</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:0f</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:0f</hardware-physical-address>
+    <interface-flapped seconds="1109">2022-09-16 06:54:25 CEST (00:18:29 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -547,7 +547,7 @@
     <interface-transmit-statistics>Disabled</interface-transmit-statistics>
     <logical-interface>
       <name>xe-0/0/3.0</name>
-      <local-index>557</local-index>
+      <local-index>558</local-index>
       <snmp-index>541</snmp-index>
       <if-config-flags>
         <iff-up/>
@@ -558,7 +558,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>7631</output-packets>
+        <output-packets>119</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -618,13 +618,13 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:13</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:13</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:13</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:13</hardware-physical-address>
+    <interface-flapped seconds="1109">2022-09-16 06:54:25 CEST (00:18:29 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
-      <output-bps>64</output-bps>
+      <output-bps>0</output-bps>
       <output-pps>0</output-pps>
     </traffic-statistics>
     <active-alarms>
@@ -653,7 +653,7 @@
     <interface-transmit-statistics>Disabled</interface-transmit-statistics>
     <logical-interface>
       <name>xe-0/0/4.0</name>
-      <local-index>558</local-index>
+      <local-index>559</local-index>
       <snmp-index>542</snmp-index>
       <if-config-flags>
         <iff-up/>
@@ -664,7 +664,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>7601</output-packets>
+        <output-packets>120</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -723,9 +723,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:17</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:17</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:17</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:17</hardware-physical-address>
+    <interface-flapped seconds="1110">2022-09-16 06:54:25 CEST (00:18:30 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -769,7 +769,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>2755</output-packets>
+        <output-packets>41</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -820,9 +820,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:1b</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:1b</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:1b</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:1b</hardware-physical-address>
+    <interface-flapped seconds="1110">2022-09-16 06:54:25 CEST (00:18:30 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -866,7 +866,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>2757</output-packets>
+        <output-packets>41</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -917,9 +917,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:1f</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:1f</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:1f</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:1f</hardware-physical-address>
+    <interface-flapped seconds="1110">2022-09-16 06:54:25 CEST (00:18:30 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -963,7 +963,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>2753</output-packets>
+        <output-packets>41</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -1014,9 +1014,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:23</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:23</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:23</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:23</hardware-physical-address>
+    <interface-flapped seconds="1110">2022-09-16 06:54:25 CEST (00:18:30 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -1060,7 +1060,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>2753</output-packets>
+        <output-packets>42</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -1111,9 +1111,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:27</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:27</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:27</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:27</hardware-physical-address>
+    <interface-flapped seconds="1110">2022-09-16 06:54:25 CEST (00:18:30 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -1157,7 +1157,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>2756</output-packets>
+        <output-packets>42</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -1208,13 +1208,13 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:2b</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:2b</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:2b</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:2b</hardware-physical-address>
+    <interface-flapped seconds="1110">2022-09-16 06:54:25 CEST (00:18:30 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
-      <output-bps>432</output-bps>
+      <output-bps>0</output-bps>
       <output-pps>0</output-pps>
     </traffic-statistics>
     <active-alarms>
@@ -1254,7 +1254,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>2758</output-packets>
+        <output-packets>42</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -1305,9 +1305,9 @@
       <physical-interface-cos-hw-max-queues>8</physical-interface-cos-hw-max-queues>
       <physical-interface-cos-use-max-queues>8</physical-interface-cos-use-max-queues>
     </physical-interface-cos-information>
-    <current-physical-address>02:05:86:71:fd:2f</current-physical-address>
-    <hardware-physical-address>02:05:86:71:fd:2f</hardware-physical-address>
-    <interface-flapped seconds="76688">2022-09-13 13:50:47 CEST (21:18:08 ago)</interface-flapped>
+    <current-physical-address>02:05:86:71:ed:2f</current-physical-address>
+    <hardware-physical-address>02:05:86:71:ed:2f</hardware-physical-address>
+    <interface-flapped seconds="1110">2022-09-16 06:54:25 CEST (00:18:30 ago)</interface-flapped>
     <traffic-statistics style="brief">
       <input-bps>0</input-bps>
       <input-pps>0</input-pps>
@@ -1351,7 +1351,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>2755</output-packets>
+        <output-packets>41</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -1391,7 +1391,7 @@
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>52528</output-packets>
+      <output-packets>809</output-packets>
     </traffic-statistics>
     <logical-interface>
       <name>bme0.0</name>
@@ -1404,7 +1404,7 @@
       <encapsulation>ENET2</encapsulation>
       <policer-overhead/>
       <traffic-statistics style="brief">
-        <input-packets>0</input-packets>
+        <input-packets>3</input-packets>
         <output-packets>4</output-packets>
       </traffic-statistics>
       <filter-information/>
@@ -1478,8 +1478,8 @@
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 02:05:86:71:fd:14">02:05:86:71:fd:14</current-physical-address>
-    <hardware-physical-address format="MAC 02:05:86:71:fd:14">02:05:86:71:fd:14</hardware-physical-address>
+    <current-physical-address format="MAC 02:05:86:71:ed:14">02:05:86:71:ed:14</current-physical-address>
+    <hardware-physical-address format="MAC 02:05:86:71:ed:14">02:05:86:71:ed:14</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
@@ -1534,12 +1534,12 @@
     <if-media-flags>
       <internal-flags>0x4</internal-flags>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:00">0c:2f:0b:da:00:00</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:00">0c:2f:0b:da:00:00</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:03">20:d8:0b:00:00:03</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:03">20:d8:0b:00:00:03</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
-      <input-packets>103483</input-packets>
-      <output-packets>25785</output-packets>
+      <input-packets>3853</input-packets>
+      <output-packets>2012</output-packets>
     </traffic-statistics>
     <logical-interface>
       <name>em0.0</name>
@@ -1553,8 +1553,8 @@
       <encapsulation>ENET2</encapsulation>
       <policer-overhead/>
       <traffic-statistics style="brief">
-        <input-packets>103220</input-packets>
-        <output-packets>25785</output-packets>
+        <input-packets>3701</input-packets>
+        <output-packets>2012</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -1562,7 +1562,7 @@
         <mtu>1500</mtu>
         <max-local-cache>75000</max-local-cache>
         <new-hold-limit>75000</new-hold-limit>
-        <intf-curr-cnt>8</intf-curr-cnt>
+        <intf-curr-cnt>2</intf-curr-cnt>
         <intf-unresolved-cnt>0</intf-unresolved-cnt>
         <intf-dropcnt>0</intf-dropcnt>
         <address-family-flags>
@@ -1603,12 +1603,12 @@
     <if-media-flags>
       <internal-flags>0x4</internal-flags>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:01">0c:2f:0b:da:00:01</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:01">0c:2f:0b:da:00:01</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:04">20:d8:0b:00:00:04</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:04">20:d8:0b:00:00:04</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
-      <input-packets>2004508</input-packets>
-      <output-packets>2438970</output-packets>
+      <input-packets>258025</input-packets>
+      <output-packets>694338</output-packets>
     </traffic-statistics>
     <logical-interface>
       <name>em1.0</name>
@@ -1622,8 +1622,8 @@
       <encapsulation>ENET2</encapsulation>
       <policer-overhead/>
       <traffic-statistics style="brief">
-        <input-packets>2004497</input-packets>
-        <output-packets>2438970</output-packets>
+        <input-packets>258018</input-packets>
+        <output-packets>694338</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -1671,12 +1671,12 @@
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:02">0c:2f:0b:da:00:02</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:02">0c:2f:0b:da:00:02</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:05">20:d8:0b:00:00:05</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:05">20:d8:0b:00:00:05</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>28</output-packets>
+      <output-packets>29</output-packets>
     </traffic-statistics>
     <logical-interface>
       <name>em2.32768</name>
@@ -1690,7 +1690,7 @@
       <policer-overhead/>
       <traffic-statistics style="brief">
         <input-packets>0</input-packets>
-        <output-packets>28</output-packets>
+        <output-packets>29</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -1735,19 +1735,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:03">0c:2f:0b:da:00:03</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:03">0c:2f:0b:da:00:03</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:06">20:d8:0b:00:00:06</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:06">20:d8:0b:00:00:06</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>2755</output-packets>
+      <output-packets>41</output-packets>
     </traffic-statistics>
   </physical-interface>
   <physical-interface>
@@ -1766,19 +1765,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:04">0c:2f:0b:da:00:04</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:04">0c:2f:0b:da:00:04</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:07">20:d8:0b:00:00:07</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:07">20:d8:0b:00:00:07</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
-      <input-packets>0</input-packets>
-      <output-packets>7615</output-packets>
+      <input-packets>48</input-packets>
+      <output-packets>118</output-packets>
     </traffic-statistics>
     <logical-interface>
       <name>em4.32768</name>
@@ -1786,13 +1784,12 @@
       <snmp-index>504</snmp-index>
       <if-config-flags>
         <iff-up/>
-        <iff-promiscuous/>
         <iff-snmp-traps/>
       </if-config-flags>
       <encapsulation>ENET2</encapsulation>
       <policer-overhead/>
       <traffic-statistics style="brief">
-        <input-packets>0</input-packets>
+        <input-packets>35</input-packets>
         <output-packets>1</output-packets>
       </traffic-statistics>
       <filter-information/>
@@ -1837,19 +1834,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:05">0c:2f:0b:da:00:05</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:05">0c:2f:0b:da:00:05</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:08">20:d8:0b:00:00:08</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:08">20:d8:0b:00:00:08</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
-      <input-packets>0</input-packets>
-      <output-packets>7623</output-packets>
+      <input-packets>47</input-packets>
+      <output-packets>118</output-packets>
     </traffic-statistics>
   </physical-interface>
   <physical-interface>
@@ -1868,19 +1864,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:06">0c:2f:0b:da:00:06</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:06">0c:2f:0b:da:00:06</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:09">20:d8:0b:00:00:09</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:09">20:d8:0b:00:00:09</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>7625</output-packets>
+      <output-packets>119</output-packets>
     </traffic-statistics>
   </physical-interface>
   <physical-interface>
@@ -1899,19 +1894,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:07">0c:2f:0b:da:00:07</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:07">0c:2f:0b:da:00:07</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:0a">20:d8:0b:00:00:0a</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:0a">20:d8:0b:00:00:0a</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>7595</output-packets>
+      <output-packets>120</output-packets>
     </traffic-statistics>
   </physical-interface>
   <physical-interface>
@@ -1930,19 +1924,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:08">0c:2f:0b:da:00:08</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:08">0c:2f:0b:da:00:08</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:0b">20:d8:0b:00:00:0b</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:0b">20:d8:0b:00:00:0b</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>2752</output-packets>
+      <output-packets>41</output-packets>
     </traffic-statistics>
   </physical-interface>
   <physical-interface>
@@ -1961,19 +1954,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:09">0c:2f:0b:da:00:09</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:09">0c:2f:0b:da:00:09</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:0c">20:d8:0b:00:00:0c</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:0c">20:d8:0b:00:00:0c</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>2756</output-packets>
+      <output-packets>41</output-packets>
     </traffic-statistics>
   </physical-interface>
   <physical-interface>
@@ -1992,19 +1984,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:0a">0c:2f:0b:da:00:0a</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:0a">0c:2f:0b:da:00:0a</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:0d">20:d8:0b:00:00:0d</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:0d">20:d8:0b:00:00:0d</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>2750</output-packets>
+      <output-packets>41</output-packets>
     </traffic-statistics>
   </physical-interface>
   <physical-interface>
@@ -2023,19 +2014,18 @@
     </if-device-flags>
     <ifd-specific-config-flags/>
     <if-config-flags>
-      <iff-promiscuous/>
       <iff-snmp-traps/>
     </if-config-flags>
     <link-type>Full-Duplex</link-type>
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 0c:2f:0b:da:00:0b">0c:2f:0b:da:00:0b</current-physical-address>
-    <hardware-physical-address format="MAC 0c:2f:0b:da:00:0b">0c:2f:0b:da:00:0b</hardware-physical-address>
+    <current-physical-address format="MAC 20:d8:0b:00:00:0e">20:d8:0b:00:00:0e</current-physical-address>
+    <hardware-physical-address format="MAC 20:d8:0b:00:00:0e">20:d8:0b:00:00:0e</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
-      <output-packets>2749</output-packets>
+      <output-packets>42</output-packets>
     </traffic-statistics>
   </physical-interface>
   <physical-interface>
@@ -2358,8 +2348,8 @@
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 02:05:86:71:fd:00">02:05:86:71:fd:00</current-physical-address>
-    <hardware-physical-address format="MAC 02:05:86:71:fd:00">02:05:86:71:fd:00</hardware-physical-address>
+    <current-physical-address format="MAC 02:05:86:71:ed:00">02:05:86:71:ed:00</current-physical-address>
+    <hardware-physical-address format="MAC 02:05:86:71:ed:00">02:05:86:71:ed:00</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
@@ -2385,8 +2375,8 @@
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 02:05:86:71:fd:00">02:05:86:71:fd:00</current-physical-address>
-    <hardware-physical-address format="MAC 02:05:86:71:fd:00">02:05:86:71:fd:00</hardware-physical-address>
+    <current-physical-address format="MAC 02:05:86:71:ed:00">02:05:86:71:ed:00</current-physical-address>
+    <hardware-physical-address format="MAC 02:05:86:71:ed:00">02:05:86:71:ed:00</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
@@ -2459,8 +2449,8 @@
     </if-media-flags>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
-      <input-packets>1440287</input-packets>
-      <output-packets>1440287</output-packets>
+      <input-packets>30912</input-packets>
+      <output-packets>30912</output-packets>
     </traffic-statistics>
     <logical-interface>
       <name>lo0.0</name>
@@ -2510,7 +2500,7 @@
           <ifa-flags>
             <internal-flags>0x800</internal-flags>
           </ifa-flags>
-          <ifa-local>fe80::205:860f:fc71:fd00</ifa-local>
+          <ifa-local>fe80::205:860f:fc71:ed00</ifa-local>
           <interface-address>
             <in6-addr-flags>
               <ifaf-none/>
@@ -2529,8 +2519,8 @@
       <encapsulation>Unspecified</encapsulation>
       <policer-overhead/>
       <traffic-statistics style="brief">
-        <input-packets>1440096</input-packets>
-        <output-packets>1440096</output-packets>
+        <input-packets>30769</input-packets>
+        <output-packets>30769</output-packets>
       </traffic-statistics>
       <filter-information/>
       <address-family>
@@ -2658,8 +2648,8 @@
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 02:05:86:71:f8:df">02:05:86:71:f8:df</current-physical-address>
-    <hardware-physical-address format="MAC 02:05:86:71:f8:df">02:05:86:71:f8:df</hardware-physical-address>
+    <current-physical-address format="MAC 02:05:86:71:e8:df">02:05:86:71:e8:df</current-physical-address>
+    <hardware-physical-address format="MAC 02:05:86:71:e8:df">02:05:86:71:e8:df</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>
@@ -2715,8 +2705,8 @@
     <if-media-flags>
       <ifmf-none/>
     </if-media-flags>
-    <current-physical-address format="MAC 02:05:86:71:fd:01">02:05:86:71:fd:01</current-physical-address>
-    <hardware-physical-address format="MAC 02:05:86:71:fd:01">02:05:86:71:fd:01</hardware-physical-address>
+    <current-physical-address format="MAC 02:05:86:71:ed:01">02:05:86:71:ed:01</current-physical-address>
+    <hardware-physical-address format="MAC 02:05:86:71:ed:01">02:05:86:71:ed:01</hardware-physical-address>
     <interface-flapped seconds="0">Never</interface-flapped>
     <traffic-statistics style="brief">
       <input-packets>0</input-packets>

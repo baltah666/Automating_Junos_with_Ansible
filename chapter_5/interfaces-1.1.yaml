@@ -23,7 +23,7 @@
           - get-interface-information
         kwargs:
           detail: True
-          interface_name: ge-0/0/0
+          interface_name: xe-0/0/0
         provider:
           host: "{{ ansible_host }}"
           user: "{{ username }}"
